@@ -1,0 +1,10 @@
+C:\Users\Utku\source\repos\StringToStRIngG\StringToStRIngG\bin\Debug\StringToStRIngG.exe.config
+C:\Users\Utku\source\repos\StringToStRIngG\StringToStRIngG\bin\Debug\StringToStRIngG.exe
+C:\Users\Utku\source\repos\StringToStRIngG\StringToStRIngG\bin\Debug\StringToStRIngG.pdb
+C:\Users\Utku\source\repos\StringToStRIngG\StringToStRIngG\obj\Debug\StringToStRIngG.csproj.AssemblyReference.cache
+C:\Users\Utku\source\repos\StringToStRIngG\StringToStRIngG\obj\Debug\StringToStRIngG.String_Form.resources
+C:\Users\Utku\source\repos\StringToStRIngG\StringToStRIngG\obj\Debug\StringToStRIngG.Properties.Resources.resources
+C:\Users\Utku\source\repos\StringToStRIngG\StringToStRIngG\obj\Debug\StringToStRIngG.csproj.GenerateResource.cache
+C:\Users\Utku\source\repos\StringToStRIngG\StringToStRIngG\obj\Debug\StringToStRIngG.csproj.CoreCompileInputs.cache
+C:\Users\Utku\source\repos\StringToStRIngG\StringToStRIngG\obj\Debug\StringToStRIngG.exe
+C:\Users\Utku\source\repos\StringToStRIngG\StringToStRIngG\obj\Debug\StringToStRIngG.pdb
